@@ -34,3 +34,23 @@ p .blue {
   background-color: white;
   color: rgb(53, 167, 243);
 }
+
+thead {
+  background-color: rgb(60, 132, 248);
+}
+
+tbody {
+  background-color: white;
+}
+
+tfoot {
+  background-color: rgb(137, 202, 243);
+}
+
+tbody.blue {
+  background-color: rgb(137, 202, 243);
+}
+
+thead {
+  text-align: justify
+}
